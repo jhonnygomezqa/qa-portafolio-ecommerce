@@ -1,8 +1,8 @@
 # Login: análisis de requisitos
 
-**Aplicación:** https://www.saucedemo.com
-**Fecha de análisis:** 16/11/2026
-**Método:** exploración manual de la aplicación
+- **Aplicación:** https://www.saucedemo.com
+- **Fecha de análisis:** 16/11/2026
+- **Método:** exploración manual de la aplicación
 
 ## Requisitos funcionales
 
